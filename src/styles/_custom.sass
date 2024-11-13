@@ -2,13 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 27%
+    right: 67%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 45%
+    right: 22%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 21%
+    right: 28%
 
 
 @keyframes float1
@@ -16,3 +21,246 @@
     transform: translateY(20px)
   100%
     transform: translateY(0px)
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
+  color: #12263F
+
+.boton *, .boton--sm *
+  color: #FFFFFF
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img-01.png") !important
+
+@media (min-width: 992px)
+  .desktop 
+    display: inline
+  .movil 
+    display: none
+@media (max-width: 991px)
+  .movil 
+    display: inline
+  .desktop 
+    display: none
+
+.tema1
+  .fondo2-t2
+    background-image: url(../assets/curso/temas/tema1/000.svg) !important
+    margin-inline: -3rem
+    background-size: cover 
+    background-repeat: no-repeat
+    background-position: center
+    @media screen and (max-width: $bp-max-sm)
+      margin-inline: -1.5rem
+
+  .fondo3-t3
+    background: linear-gradient(to bottom, #FFF, #FFFBF2, #FFF)
+    margin-inline: -3rem
+    @media screen and (max-width: $bp-max-sm)
+      margin-inline: -1.5rem
+
+.tema2
+  .tarjeta--gris
+    background-color: #DFECE9
+
+  .tarjeta.tarjeta--gris.acordion__activo
+    background-color: #FFECDA
+
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #DFECE9
+
+  .acordion__accion__btn--b
+    background-color: #09614D
+    color: #fff
+    border: none
+
+.tema3
+  .bloque-texto-g.color-secundario
+    background-color: #F9D648
+
+  .linea-tiempo-d__item--selected
+    .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+      background: linear-gradient(180deg,#FFECDA  0%, rgb(255, 248, 224) 100%)
+  .linea-tiempo-d__item,.acordion
+    .tarjeta.tarjeta--gris
+      background-color: #DFECE9
+
+  .acordion__activo
+    background: linear-gradient(180deg, #FFECDA  0%, rgb(255, 248, 224) 100%)
+
+  .linea-tiempo-d.color-acento-botones .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+    background-color: #09614D
+    color: #FFFF
+
+  .fondo2-t2
+    background-image: url(../assets/curso/temas/tema3/fondo.png) !important
+    margin-inline: -3rem
+    background-size: cover 
+    background-repeat: no-repeat
+    background-position: center
+    @media screen and (max-width: $bp-max-sm)
+      margin-inline: -1.5rem
+
+.tema4
+  .bloque-texto-g.color-secundario
+    background-color: #F9D648
+
+  .slyder-b-img
+    background-image: url(../assets/curso/temas/tema4/fondo-slyder.svg) !important
+  
+  .slyder__btn
+    background-color: #09614D
+    color: #fff
+
+  .bg
+    &-c7
+      position: relative
+      left: -2%
+      background-color: #FFECDA
+      border-top-right-radius: 15px
+      border-bottom-right-radius: 15px
+
+  @media only screen and (min-width: 430px) and (max-width: 431px)
+    .col-ipad
+      margin-right: 5rem !important
+      width: 100%
+
+  .lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li, .lista-ul li
+    display: flex
+  
+  .tarjeta--gris
+    background-color: #DFECE9
+
+  .linea-tiempo-edit
+    .linea-tiempo-d__item__content
+      transition: all .3s linear
+    .linea-tiempo-d__item--selected
+      .linea-tiempo-d__item__number
+        background-color: #09614D !important
+        color: white !important
+      .linea-tiempo-d__item__content
+        background: linear-gradient(180deg,#FFECDA  0%, rgb(255, 248, 224) 100%)
+
+.tema5
+  .fondo2-t2
+    background-image: url(../assets/curso/temas/tema1/000.svg) !important
+    margin-inline: -3rem
+    background-size: cover 
+    background-repeat: no-repeat
+    background-position: center
+    @media screen and (max-width: $bp-max-sm)
+      margin-inline: -1.5rem
+
+  .fondo3-t3
+    background: linear-gradient(to bottom, #FFF, #FFFBF2, #FFF)
+    margin-inline: -3rem
+    @media screen and (max-width: $bp-max-sm)
+      margin-inline: -1.5rem
+
+  .lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li, .lista-ul li
+    display: flex
+
+.tema6
+  .lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li, .lista-ul li
+    display: flex    
+  
+  .linea-tiempo-d__item--selected
+    .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+      background: linear-gradient(180deg,#FFECDA  0%, rgb(255, 248, 224) 100%)
+  .linea-tiempo-d__item,.acordion
+    .tarjeta.tarjeta--gris
+      background-color: #DFECE9
+
+  .acordion__activo
+    background: linear-gradient(180deg, #FFECDA  0%, rgb(255, 248, 224) 100%)
+
+  .linea-tiempo-d.color-acento-botones .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+    background-color: #09614D
+    color: #FFFF
+
+.tema7
+  .tabs-a__tab
+    background-color: #DFECE9
+
+  .tabs-a__tab
+    padding: 15px 10px
+    width: 105%
+
+  .tarjeta.color-acento-botones--borde
+    background-color: #FFECDA
+    border: solid 4px #FFECDA
+
+.tema8
+  .tarjeta--gris
+    background-color: #DFECE9
+
+  .linea-tiempo-edit
+    .linea-tiempo-d__item__content
+      transition: all .3s linear
+    .linea-tiempo-d__item--selected
+      .linea-tiempo-d__item__number
+        background-color: #09614D !important
+        color: white !important
+      .linea-tiempo-d__item__content
+        background: linear-gradient(180deg,#FFECDA  0%, rgb(255, 248, 224) 100%)
+  
+  .lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li, .lista-ul li
+    display: flex 
+
+.tema9
+  .linea-tiempo-d__item--selected
+    .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+      background: linear-gradient(180deg,#FFECDA  0%, rgb(255, 248, 224) 100%)
+  .linea-tiempo-d__item,.acordion
+    .tarjeta.tarjeta--gris
+      background-color: #DFECE9
+
+  .acordion__activo
+    background: linear-gradient(180deg, #FFECDA  0%, rgb(255, 248, 224) 100%)
+
+  .linea-tiempo-d.color-acento-botones .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+    background-color: #09614D
+    color: #FFFF
+
+  .bloque-texto-g.color-secundario
+    background-color: #F9D648
+  
+  .lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li, .lista-ul li
+    display: flex 
+
+  .linea-tiempo-edit
+    .linea-tiempo-d__item__content
+      transition: all .3s linear
+    .linea-tiempo-d__item--selected
+      .linea-tiempo-d__item__number
+        background-color: #09614D !important
+        color: white !important
+      .linea-tiempo-d__item__content
+        background-color: #FFE3C7 !important
+
+.tema10
+  .lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li, .lista-ul li
+    display: flex 
+
+  .linea-tiempo-d__item--selected
+    .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+      background: linear-gradient(180deg,#FFECDA  0%, rgb(255, 248, 224) 100%)
+  .linea-tiempo-d__item,.acordion
+    .tarjeta.tarjeta--gris
+      background-color: #DFECE9
+
+  .acordion__activo
+    background: linear-gradient(180deg, #FFECDA  0%, rgb(255, 248, 224) 100%)
+
+  .linea-tiempo-edit
+    .linea-tiempo-d__item__content
+      transition: all .3s linear
+    .linea-tiempo-d__item--selected
+      .linea-tiempo-d__item__number
+        background-color: #09614D !important
+        color: white !important
+      .linea-tiempo-d__item__content
+        background-color: #FFE3C7 !important
+
+  .linea-tiempo-d.color-acento-botones .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+    background-color: #09614D
+    color: #FFFF
