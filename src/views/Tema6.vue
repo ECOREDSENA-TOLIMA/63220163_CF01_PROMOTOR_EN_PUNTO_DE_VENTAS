@@ -24,15 +24,15 @@
               p Algunas estrategias promocionales destacadas incluyen:
               ul.lista-ul.mb-3
                 li(data-aos="fade-down")
-                  i.fas.fa-folder-open(style="color: #FFACAC")
+                  i.fas.fa-store(style="color: #FFACAC")
                   p.mb-0 Cupones distribuidos en el punto de venta o enviados al domicilio del consumidor, como los que se adjuntan a facturas de servicios.
                 
                 li(data-aos="fade-down")
-                  i.fas.fa-folder-open(style="color: #FFACAC")
+                  i.fas.fa-store(style="color: #FFACAC")
                   p.mb-0 Productos adicionales gratuitos (como una muestra de menor tamaño o un obsequio).
                 
                 li(data-aos="fade-down")
-                  i.fas.fa-folder-open(style="color: #FFACAC")
+                  i.fas.fa-store(style="color: #FFACAC")
                   p.mb-0 Reducciones de precio en áreas destacadas del establecimiento, como en puntas de góndola. 
                 
     p Aunque las promociones en el lugar de venta generan un fuerte impacto en las ventas, una adecuada combinación con la publicidad puede potenciar aún más los resultados de una campaña. La publicidad es una comunicación no personal que informa, persuade y recuerda al consumidor sobre las características y beneficios del producto, utilizando medios como la televisión.

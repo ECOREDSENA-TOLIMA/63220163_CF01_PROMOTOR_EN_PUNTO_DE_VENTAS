@@ -53,23 +53,23 @@
           p Para optimizar estos factores, se elaboran planogramas estratégicos que buscan maximizar las ganancias al:
           ul.lista-ul.mb-3
             li(data-aos="fade-down")
-              i.fas.fa-folder-open(style="color: #FFACAC")
+              i.fas.fa-store(style="color: #FFACAC")
               p.mb-0 Aprovechar al máximo el espacio disponible en el punto de venta.
             
             li(data-aos="fade-down")
-              i.fas.fa-folder-open(style="color: #FFACAC")
+              i.fas.fa-store(style="color: #FFACAC")
               p.mb-0 Convertir áreas menos atractivas en zonas llamativas.
             
             li(data-aos="fade-down")
-              i.fas.fa-folder-open(style="color: #FFACAC")
+              i.fas.fa-store(style="color: #FFACAC")
               p.mb-0 Aumentar la rotación de productos.
             
             li(data-aos="fade-down")
-              i.fas.fa-folder-open(style="color: #FFACAC")
+              i.fas.fa-store(style="color: #FFACAC")
               p.mb-0 Garantizar que el producto esté visible y accesible, de modo que “encuentre” al cliente.
             
             li(data-aos="fade-down")
-              i.fas.fa-folder-open(style="color: #FFACAC")
+              i.fas.fa-store(style="color: #FFACAC")
               p.mb-0 Crear un flujo lógico en el desplazamiento del cliente, haciendo la experiencia de compra intuitiva. 
     
     p(data-aos="fade-left") Algunas técnicas de #[i merchandising] incluyen colocar productos esenciales en zonas menos transitadas, mejorar la iluminación en estas áreas, ofrecer degustaciones, o instalar espejos en puntos estratégicos.
