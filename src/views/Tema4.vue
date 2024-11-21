@@ -12,7 +12,7 @@
         figure
           img(src='@/assets/curso/temas/tema4/img-01.png', alt='')
 
-    p.mb-5 Cobra vigencia una vez dado el acuerdo comercial; ésta requiere de una planeación con asignación de recursos, un montaje y una ejecución.  Su planeación debe establecer el paso a paso para la campaña, especificando los recursos necesarios, tanto materiales como humanos. Los recursos materiales están relacionados con la cantidad de mercancía, los elementos necesarios para armar las exhibiciones, el material promocional en el punto de compra —P.O.P.— y herramientas que requiera el promotor de ventas para impulsar el producto.
+    p.mb-5 Cobra vigencia una vez dado el acuerdo comercial; esta requiere de una planeación con asignación de recursos, un montaje y una ejecución.  Su planeación debe establecer el paso a paso para la campaña, especificando los recursos necesarios, tanto materiales como humanos. Los recursos materiales están relacionados con la cantidad de mercancía, los elementos necesarios para armar las exhibiciones, el material promocional en el punto de compra —P.O.P.— y herramientas que requiera el promotor de ventas para impulsar el producto.
 
     Separador
 
@@ -42,7 +42,7 @@
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.3 Tipos de exhibiciones
 
-    p Las exhibiciones están relacionadas con el montaje o preparación de la campaña promocional. Si la campaña requiere de exhibiciones adicionales a las que se tienen en el punto de venta o montajes especiales, deberán realizarse bajo la principal responsabilidad del mercaderista de la empresa, ya que éste conoce perfectamente las técnicas de exhibición; además, el promotor de ventas es corresponsable por ser el encargado de mantener estas exhibiciones.
+    p Las exhibiciones están relacionadas con el montaje o preparación de la campaña promocional. Si la campaña requiere de exhibiciones adicionales a las que se tienen en el punto de venta o montajes especiales, deberán realizarse bajo la principal responsabilidad del mercaderista de la empresa, ya que este conoce perfectamente las técnicas de exhibición; además, el promotor de ventas es corresponsable por ser el encargado de mantener estas exhibiciones.
     p.mb-5 Debe tenerse en cuenta que las exhibiciones se clasifican como principales y secundarias.
 
     .row.align-items-center.mb-4(data-aos="zoom-in")
@@ -95,13 +95,13 @@
     p.mb-5 El espacio de exhibición puede utilizar una de las siguientes técnicas:
 
     .row.mb-1
-      .col-lg-6.col-ipad.mb-4
-        img(src='@/assets/curso/temas/tema4/img-06.svg').mb-4
+      .col-lg-6.col-ipad.mb-4(data-aos="fade-right")
+        img(src='@/assets/curso/temas/tema4/img-06.png').mb-4
         h3 Vertical
         p Consiste en colocar los productos desde la parte alta del anaquel hasta la parte inferior. En este tipo de exhibición pueden ubicarse diferentes referencias del producto en cada lineal, o la misma referencia en un espacio más angosto. El objetivo de esta exhibición es hacer un bloque que genere gran impacto visual.  
 
-      .col-lg-6.col-ipad.mb-4
-        img(src='@/assets/curso/temas/tema4/img-07.svg').mb-4
+      .col-lg-6.col-ipad.mb-4(data-aos="fade-left")
+        img(src='@/assets/curso/temas/tema4/img-07.png').mb-4
         h3 Horizontal
         p En este caso la exhibición se hace a lo largo del lineal, pudiendo crear un impacto visual dependiendo de la zona del anaquel donde esté la exhibición.
 
@@ -213,7 +213,7 @@ export default {
   data: () => ({
     datosSlyderEjemplo1: [
       {
-        titulo: 'Display y muebles de piso',
+        titulo: '<em>Display</em> y muebles de piso',
         texto:
           'Mueble publicitario en cartón u otro material, algunos se colocan directamente en el piso, otros sobre entrepaños, anaqueles o muebles.',
         imagen: require('@/assets/curso/temas/tema4/img-03.png'),
@@ -222,75 +222,75 @@ export default {
         titulo: 'Cenefas',
         texto:
           'Tiras de papel donde se imprime la información, generalmente usadas en los entrepaños de las góndolas',
-        imagen: require('@/assets/curso/temas/tema4/img-03.png'),
+        imagen: require('@/assets/curso/temas/tema4/img-014.png'),
       },
       {
         titulo: 'Carros de impulso o muebles de degustación',
         texto:
           'Usados generalmente para disponer los productos que se ofrecen en las degustaciones.',
-        imagen: require('@/assets/curso/temas/tema4/img-03.png'),
+        imagen: require('@/assets/curso/temas/tema4/img-015.png'),
       },
       {
         titulo: 'Puntas de góndola',
         texto: 'Inicio de la góndola, la cual se decora.',
-        imagen: require('@/assets/curso/temas/tema4/img-03.png'),
+        imagen: require('@/assets/curso/temas/tema4/img-016.png'),
       },
       {
         titulo: 'Carteles, afiches, pendones o banners',
         texto:
           'Por lo general se usan en medios impresos en papel o sustratos sintéticos.',
-        imagen: require('@/assets/curso/temas/tema4/img-03.png'),
+        imagen: require('@/assets/curso/temas/tema4/img-017.png'),
       },
       {
         titulo: 'Habladores o <em>speaker</em>',
         texto:
           'Diseños que sirven para colocar en diferentes tipos de ubicación.',
-        imagen: require('@/assets/curso/temas/tema4/img-03.png'),
+        imagen: require('@/assets/curso/temas/tema4/img-018.png'),
       },
       {
         titulo: 'Saltarines o <em>danglers</em>',
         texto:
           'Su diseño tiene una tira de donde cuelgan para ser más atractivos a la vista y tener movilidad.',
-        imagen: require('@/assets/curso/temas/tema4/img-03.png'),
+        imagen: require('@/assets/curso/temas/tema4/img-019.png'),
       },
       {
         titulo: 'Cuellos de botella',
         texto:
           'Para colocar en las botellas o recipientes de este tipo de forma.',
-        imagen: require('@/assets/curso/temas/tema4/img-03.png'),
+        imagen: require('@/assets/curso/temas/tema4/img-020.png'),
       },
       {
-        titulo: 'Rompe tráficos o stoppers',
+        titulo: 'Rompe tráficos o <em>stoppers</em>',
         texto:
           'Es el tipo de publicidad que se puede colocar en el paso de <em>shopper</em> o comprador en diferentes tamaños.',
-        imagen: require('@/assets/curso/temas/tema4/img-03.png'),
+        imagen: require('@/assets/curso/temas/tema4/img-021.png'),
       },
       {
-        titulo: 'Volantes o flyers',
+        titulo: 'Volantes o <em>flyers</em>',
         texto: 'Se requiere una logística estratégica de distribución.',
-        imagen: require('@/assets/curso/temas/tema4/img-03.png'),
+        imagen: require('@/assets/curso/temas/tema4/img-022.png'),
       },
       {
-        titulo: 'Grafica de piso o foor prints',
+        titulo: 'Grafica de piso o <em>foor prints</em>',
         texto:
           'Son materiales que se pueden pisar sin problemas y que no sean resbaladizos, deben estar plastificados para garantizar su duración.',
-        imagen: require('@/assets/curso/temas/tema4/img-03.png'),
+        imagen: require('@/assets/curso/temas/tema4/img-023.png'),
       },
       {
         titulo: 'Mupis o aviso luminoso',
         texto: 'Se presentan de forma impresa o digital.',
-        imagen: require('@/assets/curso/temas/tema4/img-03.png'),
+        imagen: require('@/assets/curso/temas/tema4/img-024.png'),
       },
       {
         titulo: 'Cabezotes',
         texto: 'Para ubicar en la parte alta de la góndola.',
-        imagen: require('@/assets/curso/temas/tema4/img-03.png'),
+        imagen: require('@/assets/curso/temas/tema4/img-025.png'),
       },
       {
         titulo: 'Exhibidores temporales',
         texto:
           'Diferentes diseños que son utilizados para las exhibiciones secundarias.',
-        imagen: require('@/assets/curso/temas/tema4/img-03.png'),
+        imagen: require('@/assets/curso/temas/tema4/img-026.png'),
       },
     ],
     datosSlyderEjemplo2: [

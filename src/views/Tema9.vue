@@ -12,7 +12,7 @@
         p Los métodos físicos para incentivar la venta hacen referencia a toda la actividad de #[i merchandising] desarrollada en el punto de venta; mientras que los métodos psicológicos están diseñados para influenciar al cliente de acuerdo a factores determinantes sobre el comportamiento del consumidor, éstos deben incidir en gran medida en la decisión de compra.
         p El comprador de un producto no siempre es el consumidor del mismo, ni el consumidor decide siempre realizar la compra dado que existe lo que en mercadotecnia se conoce como “Proceso de Decisión de Compra”, en el que intervienen uno o varios participantes como: el influenciador, el decisor, el comprador, el consumidor y el evaluador.
 
-      .col-lg-2.col-8.order-lg-2.order-1.mb-lg-0.mb-4
+      .col-lg-2.col-4.mb-lg-0.mb-4
         figure
           img(src="@/assets/curso/temas/tema9/img-01.svg", alt="")
 
@@ -39,7 +39,7 @@
     p.mb-5 Existen dos tipos de compra: Programada o por impulso. La compra por impulso es muy frecuente y muchas veces se genera como ocasión de la compra programada. Es usual en ocasiones, que se va al punto de venta por un producto específico, pero se compra otro diferente o de más. Esto sucede porque algo dentro del punto de venta lo motiva o impulsa a comprar, como es el caso de una exhibición atractiva o una promoción. Determinado tipo de productos generan compras impulsivas por naturaleza, como lo son las golosinas o bebidas. La compra impulsiva también se puede generar porque se desea probar una nueva marca, o por interés en un producto que genera curiosidad y puede cubrir una necesidad específica, o por falta del artículo en casa y del cual no se había programado la compra.
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-3.col-12.mb-3(data-aos="fade-right")
+      .col-lg-2.col-4.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema9/img-04.svg', alt='')
       .col-lg-9.mb-3(data-aos="fade-left")
@@ -75,19 +75,19 @@
       .d-flex.flex-wrap.align-items-center.mb-5
         .col-xl-9.order-2.order-xl-1.pe-xl-4
           LineaTiempoD.color-secundario.linea-tiempo-edit.mb-4(data-aos="zoom-in-down")
-            p.text-small(numero="a" titulo="Acceso al punto") Debe ser amplio, cómodo y llamativo; de manera que impacte visualmente, causando impresión en el cliente; si hay puertas se sugiere que sean transparentes (Con los mecanismos de seguridad correspondientes) y de fácil apertura. 
+            p(numero="a" titulo="Acceso al punto") Debe ser amplio, cómodo y llamativo; de manera que impacte visualmente, causando impresión en el cliente; si hay puertas se sugiere que sean transparentes (Con los mecanismos de seguridad correspondientes) y de fácil apertura. 
 
-            p.text-small(numero="b" titulo="Identificación de Secciones") Deben existir anuncios de gran visibilidad que faciliten al  cliente la plena identificación de las secciones del almacén. 
+            p(numero="b" titulo="Identificación de secciones") Deben existir anuncios de gran visibilidad que faciliten al  cliente la plena identificación de las secciones del almacén. 
 
-            p.text-small(numero="c" titulo="Puntos Calientes y fríos") Para evitar las zonas frías, se pueden situar secciones con un carácter dinámico, como panaderías o charcuterías. Otra opción es utilizar los productos de mayor interés para el público, y que registren el mayor número de ventas para atraer clientes a estas zonas de forma que recorran una mayor superficie, y así queden expuestos a un mayor número de productos. La iluminación, decoración y espejos son técnicas muy útiles para este caso.
+            p(numero="c" titulo="Puntos calientes y fríos") Para evitar las zonas frías, se pueden situar secciones con un carácter dinámico, como panaderías o charcuterías. Otra opción es utilizar los productos de mayor interés para el público, y que registren el mayor número de ventas para atraer clientes a estas zonas de forma que recorran una mayor superficie, y así queden expuestos a un mayor número de productos. La iluminación, decoración y espejos son técnicas muy útiles para este caso.
 
-            p.text-small(numero="d" titulo="<em>Merchandising</em> sensorial") Se refiere a la estimulación de los sentidos, oído, olfato, la vista, el tacto y el gusto, a través de olores, música, colores y textura; todo con el fin de crear un ambiente placentero y agradable para el cliente, que lo haga sentir muy cómodo y dispuesto a la compra.
+            p(numero="d" titulo="<em>Merchandising</em> sensorial") Se refiere a la estimulación de los sentidos, oído, olfato, la vista, el tacto y el gusto, a través de olores, música, colores y textura; todo con el fin de crear un ambiente placentero y agradable para el cliente, que lo haga sentir muy cómodo y dispuesto a la compra.
 
-            p.text-small(numero="e" titulo="Ubicación de productos") Los productos de compra impulsiva deben estar situados en los ejes principales de circulación. Los productos de compra reflexiva deben ser ubicados en zonas amplias, sin incomodidades por la circulación de los clientes. Los productos más vendidos deben colocarse distantes, para que el cliente deba hacer un mayor recorrido y tenga la oportunidad de observar otros productos. La exhibición de productos debe considerar la complementariedad, es decir, exhibir productos que se complementen, por ejemplo: al lado de los espaguetis deben incluirse las salsas que los complementan.  
+            p(numero="e" titulo="Ubicación de productos") Los productos de compra impulsiva deben estar situados en los ejes principales de circulación. Los productos de compra reflexiva deben ser ubicados en zonas amplias, sin incomodidades por la circulación de los clientes. Los productos más vendidos deben colocarse distantes, para que el cliente deba hacer un mayor recorrido y tenga la oportunidad de observar otros productos. La exhibición de productos debe considerar la complementariedad, es decir, exhibir productos que se complementen, por ejemplo: al lado de los espaguetis deben incluirse las salsas que los complementan.  
 
-            p.text-small(numero="f" titulo="La circulación") Estudios han comprobado una tendencia general del #[i shopper] en el punto de venta: tomar como inicio del recorrido el área derecha del almacén; esta información deberá usarse para la exhibición estratégica del producto al igual que los siguientes factores que determinan su circulación: Cajas y puerta de entrada. Disposición del mobiliario. Colocación de los productos. Informaciones que guían al consumidor.
+            p(numero="f" titulo="La circulación") Estudios han comprobado una tendencia general del #[i shopper] en el punto de venta: tomar como inicio del recorrido el área derecha del almacén; esta información deberá usarse para la exhibición estratégica del producto al igual que los siguientes factores que determinan su circulación: Cajas y puerta de entrada. Disposición del mobiliario. Colocación de los productos. Informaciones que guían al consumidor.
 
-        img.col-xl-3.mb-4.mb-xl-0.mx-auto.order-1.order-xl-2(src='@/assets/curso/temas/tema9/img-05.svg', alt='Rutinas de limpieza')
+        img.col-xl-3.mb-4.mb-xl-0.mx-auto.order-1.order-xl-2.d-lg-flex.d-none(src='@/assets/curso/temas/tema9/img-05.svg', alt='Rutinas de limpieza')
 
     p.mb-5 Las técnicas anteriormente descritas evidencian los métodos físicos y psicológicos que la actividad de #[i merchandising] promueve. Se pueden describir como físicos: el acceso al punto de venta y la identificación de secciones; como psicológicos: el #[i merchandising] sensorial y la ubicación de productos; pero de cualquier forma, todas las técnicas aplicadas son un complemento entre métodos físicos y psicológicos que buscan incentivar la compra en el consumidor. 
 

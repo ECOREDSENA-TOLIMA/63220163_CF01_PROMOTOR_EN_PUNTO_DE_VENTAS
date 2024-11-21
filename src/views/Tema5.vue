@@ -32,7 +32,7 @@
 
     .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img-012.png')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img-04.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Las comunicaciones en el punto de venta, el material promocional POP (Point-of-Purchase) y el personal de ventas desempeñan un papel clave en la experiencia del consumidor. El personal de ventas es el enlace directo entre el consumidor y la marca, por lo que debe poseer una excelente imagen, facilidad para relacionarse, habilidades de comunicación, y amplio conocimiento del producto. En conjunto, estas acciones en el punto de venta buscan posicionar la marca y asegurar una experiencia de compra que deje una impresión positiva y duradera en el cliente.
@@ -45,7 +45,7 @@
     .row.fondo3-t3.justify-content-center.align-items-center.py-3.px-lg-5.px-4(data-aos="zoom-in")
       .row.justify-content-center.align-items-center
         p.mb-5(data-aos="fade-right") El #[i merchandising] se enfoca en aplicar estrategias en el punto de venta que fomenten la compra del producto. La presentación y ubicación de un producto dentro del establecimiento son claves para estimular el interés y la decisión de compra del cliente. Este proceso implica un estudio detallado de factores como la colocación adecuada, cantidad disponible, tiempo y formato de exhibición, así como el uso de elementos como góndolas, mostradores y la disposición del espacio interior.
-        .col-lg-3.col-12.mb-3(data-aos="fade-left")
+        .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-left")
           figure
             img(src='@/assets/curso/temas/tema5/img-03.svg', alt='Imagen decorativa')
 

@@ -142,7 +142,7 @@ export default {
         {
           id: 5,
           texto:
-            '¿Cuál de las siguientes estrategias NO es un método físico de merchandising?',
+            '¿Cuál de las siguientes estrategias NO es un método físico de <em>merchandising?</em>',
           imagen: require('@/assets/actividad/imagen.jpg'),
           barajarRespuestas: true,
           opciones: [
@@ -151,7 +151,11 @@ export default {
               texto: 'Diseño de acceso al punto de venta',
               esCorrecta: false,
             },
-            { id: 'b', texto: 'Merchandising sensorial', esCorrecta: true },
+            {
+              id: 'b',
+              texto: '<em>Merchandising</em> sensorial',
+              esCorrecta: true,
+            },
             {
               id: 'c',
               texto: 'Identificación de secciones',

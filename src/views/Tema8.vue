@@ -12,7 +12,7 @@
         figure
           img(src='@/assets/curso/temas/tema8/img-01.png', alt='')
 
-    p.mb-5 La personalidad y el comportamiento del cliente resulta muy variada y particularizada a cada uno, lo que hace necesario su reconocimiento e individualización con el fin de darle un manejo adecuado durante el proceso de atención.  Se debe tener en cuenta que esta labor requiere de una disposición especial con el fin de entender, comprender, tolerar y guiar al cliente en  la búsqueda de soluciones y respuestas por éste esperadas, lo que hace necesario su conocimiento y aproximación de acuerdo con características que lo define en categorías generales.  
+    p.mb-5 La personalidad y el comportamiento del cliente resulta muy variada y particularizada a cada uno, lo que hace necesario su reconocimiento e individualización con el fin de darle un manejo adecuado durante el proceso de atención.  Se debe tener en cuenta que esta labor requiere de una disposición especial con el fin de entender, comprender, tolerar y guiar al cliente en  la búsqueda de soluciones y respuestas por este esperadas, lo que hace necesario su conocimiento y aproximación de acuerdo con características que lo define en categorías generales.  
 
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-10(data-aos="fade-down-right")

@@ -11,7 +11,7 @@
       .col-lg-5.col-8.mb-3(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema2/img-01.svg', alt='')
       .col-lg-7.col-12.mb-3(data-aos="fade-left")
-        p Las ventas se planean de acuerdo a los objetivos propuestos por cada empresa, y las estrategias promocionales deben apuntar al logro de éstos, considerando siempre, factores como el plan de mercadeo formulado, ya que éste se constituye en carta de navegación para orientar las acciones relacionadas con las ventas, los calendarios comerciales y el ciclo de vida del producto, entre otros. 
+        p Las ventas se planean de acuerdo a los objetivos propuestos por cada empresa, y las estrategias promocionales deben apuntar al logro de estos, considerando siempre, factores como el plan de mercadeo formulado, ya que este se constituye en carta de navegación para orientar las acciones relacionadas con las ventas, los calendarios comerciales y el ciclo de vida del producto, entre otros. 
         .cajon.color-secundario.p-4.mb-4(style="background-color:#FFF8E0")
           .row.justify-content-center.align-items-center
             .col-lg-3.col-4.mb-lg-0.mb-4 

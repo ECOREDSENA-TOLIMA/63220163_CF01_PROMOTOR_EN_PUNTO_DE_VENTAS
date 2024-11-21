@@ -68,7 +68,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10(data-aos="fade-down-right")
         .cajon.color-primario.p-4.mb-5(style="background-color:#FFECDA")
-          p.mb-0 El término de zona caliente, también es aplicable a aquella donde el cliente o #[i shopper] pasa mayor tiempo, ya sea tocando, observando o degustando los productos; como por ejemplo, las cajas registradoras, dado que éstas, generalmente, se encuentran a la entrada o sitios estratégicos de distribución del almacén, llevando al fácil desplazamiento del cliente por estos lugares. 
+          p.mb-0 El término de zona caliente, también es aplicable a aquella donde el cliente o #[i shopper] pasa mayor tiempo, ya sea tocando, observando o degustando los productos; como por ejemplo, las cajas registradoras, dado que estas, generalmente, se encuentran a la entrada o sitios estratégicos de distribución del almacén, llevando al fácil desplazamiento del cliente por estos lugares. 
 
         p.mb-5 Se le denomina zonas frías a aquellas que están más retiradas de la zona caliente, detrás de columnas, en rincones o puntos ciegos como se puede evidenciar en la siguiente gráfica:
 
@@ -85,7 +85,7 @@
             .anexo__texto
               p #[b Anexo.] Zonas calientes y frías en el almacén
 
-    p(data-aos="fade-left") Para puntos de venta como supermercados de barrio o de venta con mostrador y vitrinas, las zonas calientes son diferentes, ya que éstas se relacionan con el área de atención brindada por el encargado de mostrador.
+    p(data-aos="fade-left") Para puntos de venta como supermercados de barrio o de venta con mostrador y vitrinas, las zonas calientes son diferentes, ya que estas se relacionan con el área de atención brindada por el encargado de mostrador.
     p.mb-4(data-aos="fade-down-right") Según la forma del punto de venta se dispondrá de un ordenamiento en “Paralelo o Lineal”. De acuerdo con esto, se colocan los estantes o vitrinas en los laterales del punto de venta es decir 2 caras de exhibición.
 
     .row.fondo2-t2.justify-content-center.align-items-center.py-4.px-lg-5.px-4.mb-4
@@ -103,7 +103,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10(data-aos="fade-down-right")
         p(data-aos="fade-left") Amanera de conclusión, se puede decir, que al proveedor le interesa negociar eventos promocionales, lo que significa otorgar un descuento en el precio de compra o algún tipo de incentivo material,  que disminuya el precio del producto o lo haga más atractivo para la compra; todo esto, con el objetivo de lograr un sensible aumento en la cantidad de venta durante la promoción, en forma tal, que ese aumento represente más en utilidad que lo que se invierte en la campaña promocional.
-        p(data-aos="fade-down-right") Una vez puntualizados los aspectos de los acuerdos comerciales, el promotor de ventas estará en capacidad de reconocer los objetivos de una negociación, y comprender que éstos son una herramienta para incrementar las ventas a través de su gestión, la cual se hará más efectiva mediante la aplicación de estos conocimientos. 
+        p(data-aos="fade-down-right") Una vez puntualizados los aspectos de los acuerdos comerciales, el promotor de ventas estará en capacidad de reconocer los objetivos de una negociación, y comprender que estos son una herramienta para incrementar las ventas a través de su gestión, la cual se hará más efectiva mediante la aplicación de estos conocimientos. 
 
 
 

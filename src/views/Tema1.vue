@@ -15,7 +15,7 @@
     .row.fondo2-t2.justify-content-center.align-items-center.py-3.px-lg-5.px-4(data-aos="zoom-in")
       .row.justify-content-center.align-items-center
         p.mb-5(data-aos="fade-right") El portafolio de productos hace referencia al conjunto de productos que las empresas ofrecen; estos, se agrupan en diferentes tipos de acuerdo a alguna característica común en su uso o destino, por ejemplo: aseo, alimentos, ferretería, etc. Para cada tipo de producto se puede establecer una o más categorías, que a su vez, pueden dividirse  en subcategorías, las que incluso se pueden especificar más.  Por ejemplo el   tipo de productos “alimentos” tiene categorías como los cárnicos, bebidas, perecederos, conservados, granos, cereales y panes, entre otros; una subcategoría de los panes podría ser “Tostadas”, las que a su vez, admiten una última clasificación o segmento posible, como es el caso de “Integrales”
-        .col-lg-4.col-12.mb-3(data-aos="fade-left")
+        .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-left")
           figure
             img(src='@/assets/curso/temas/tema1/img-02.svg', alt='Imagen decorativa')
 

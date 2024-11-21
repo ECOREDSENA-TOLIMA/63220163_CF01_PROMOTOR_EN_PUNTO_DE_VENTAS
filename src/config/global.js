@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Promoción en punto de venta',
     descripcionCurso:
-      'En este componente, se da el ingreso al mundo empresarial, iniciando con los fundamentos de conceptos de empresa y sus tipologías, describiendo los métodos o matrices diseñados para realizar diagnóstico organizacional, lo que sumado aporta a que la empresa se direccione a objetivos alcanzables y medibles de acuerdo con su realidad y sus capacidades, se busca además alcanzar nuevos retos convirtiendo debilidades en fortalezas.',
+      'El presente componente hace la presentación de las necesidades básicas que se requieren para la promoción de los productos en el punto de venta y para eso se inicia desde el portafolio de los productos entendiendo el ciclo de vida de estos. Luego se trabaja con los almacenes y sus zonas de ventas en las que se requiere <em>merchandising</em> y exposición estratégica de los productos para conseguir los objetivos comerciales establecidos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -249,7 +249,7 @@ export default {
     {
       termino: 'Concepto de producto',
       significado:
-        'noción que establece que los consumidores preferirán productos que ofrezcan mejor calidad, rendimiento o características y de que la organización debe dedicar su energía para mejorarlos continuamente; versión detallada de la idea del nuevoproducto expresada en términos comprensibles para los consumidores.',
+        'noción que establece que los consumidores preferirán productos que ofrezcan mejor calidad, rendimiento o características y de que la organización debe dedicar su energía para mejorarlos continuamente; versión detallada de la idea del nuevo producto expresada en términos comprensibles para los consumidores.',
     },
     {
       termino: 'Concepto de venta',
@@ -283,15 +283,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Bailey, S., & Baker, J. (2014). Moda y visual merchandising. Barcelona: Gustavo Gilli.',
-      link:
-        'Gilli. Fernández Valinas , R. (2003). Fundamentos de mercadotecnia. México: S.A. Ediciones Paraninfo.',
+        'Bailey, S., & Baker, J. (2014). Moda y visual merchandising. Barcelona: Gustavo Gilli. Gilli. Fernández Valinas , R. (2003). Fundamentos de mercadotecnia. México: S.A. Ediciones Paraninfo',
+      link: '',
     },
     {
       referencia:
-        'García Casermeiro, M. J. (2015). Publicidad en el punto de venta. Bogotá: Ediciones de la U.',
-      link:
-        'Hernández Garnica, C., & Maubert Viveros, C. A. (2009). Fundamentos de marketing. México: Pearson Educación.',
+        'García Casermeiro, M. J. (2015). Publicidad en el punto de venta. Bogotá: Ediciones de la U.Hernández Garnica, C., & Maubert Viveros, C. A. (2009). Fundamentos de marketing. México: Pearson Educación.',
+      link: '',
     },
     {
       referencia:
