@@ -4,8 +4,8 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
-        span 2
-      h1 Las ventas y la promoción
+        span 2 
+      h1 Las ventas y la promoción Mezcla de producto
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.col-8.mb-3(data-aos="fade-right")
@@ -66,7 +66,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10(data-aos="fade-down-right")
         .cajon.color-primario.p-4(style="background-color:#FFECDA")
-          p.mb-0 Las fases son diferentes de acuerdo al tipo de producto, por ejemplo la fase de madurez de un producto de consumo cotidiano como alimentos es diferente a la fase de madurez de un producto como los teléfonos celulares. Los expertos en mercadeo tienen en cuenta todas estas consideraciones cuando planean la promoción o la realización de eventos.
+          p.mb-0 Las fases son diferentes de acuerdo al tipo de producto, por ejemplo, la fase de madurez de un producto de consumo cotidiano como alimentos es diferente a la fase de madurez de un producto como los teléfonos celulares. Los expertos en mercadeo tienen en cuenta todas estas consideraciones cuando planean la promoción o la realización de eventos.
 
 
 

@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5(data-aos="fade-right") En la siguiente representación gráfica se presenta el trabajo que se hace en el componente formativo a grandes reasgos buscando el impulso en el punto de venta: 
+    p.mb-5(data-aos="fade-right") En la siguiente representación gráfica se presenta el trabajo que se hace en el componente formativo a grandes rasgos, buscando el impulso en el punto de venta: 
     
     .row.justify-content-center
       .col-lg-10.mb-5(data-aos="fade-right")

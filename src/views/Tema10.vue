@@ -121,7 +121,7 @@
 
                 li(data-aos="fade-down")
                   i.fas.fa-folder-open(style="color: #FFACAC")
-                  p.mb-0 ¿Cuál es su mayor interés en el producto que busca? —considerar aspectos como: calidad, precio, marca, etc.—
+                  p.mb-0 ¿Cuál es su mayor interés en el producto que busca? —considerar aspectos como: calidad, precio, marca, etc.
         
         p Las respuestas que el cliente brinda contienen la información con la cual es posible determinar el producto a ofertar; si es necesario se debe realizar la pregunta de otra manera buscando reafirmar lo que el cliente ya dijo; es decir, el cliente en realidad es quien brinda la información de lo que desea y necesita, el promotor debe ser lo suficientemente hábil para interpretarlo. Es muy importante destacar todas las bondades del producto, argumentando temas como el respaldo de la marca y la imagen o reconocimiento de la calidad del producto, si es el caso. 
       
@@ -143,7 +143,7 @@
       .col-lg-8.col-12.mb-3(data-aos="fade-left")
         p Una vez identificado el interés del cliente se puede cerrar con frases como ¿Cuántas desea llevar? o ¿Qué presentación prefiere?
         p Otra estrategia a utilizar es inducir al cliente a que se imagine los beneficios del producto cuando lo esté usando, o que imagine las desventajas de no tomar una decisión, pero teniendo en cuenta utilizar información verídica. No es válido cerrar la venta con argumentos falsos. Ejemplo: Nos quedan pocas unidades de promoción o mañana termina la oferta.
-        p Generar confianza en el cliente y no hacerlo sentir presionado es muy importante, pero como el interés es cerrar la venta puede invitarlo a participar en las actividades que se estén realizando en el punto de venta, identificándose por nombre y ponerse a disposición de él, esto podría incidir en darle la libertad de compra y atraerlo al productos impulsado. 
+        p Generar confianza en el cliente y no hacerlo sentir presionado es muy importante, pero como el interés es cerrar la venta puede invitarlo a participar en las actividades que se estén realizando en el punto de venta, identificándose por nombre y ponerse a disposición de él, esto podría incidir en darle la libertad de compra y atraerlo al producto impulsado. 
 
 
 

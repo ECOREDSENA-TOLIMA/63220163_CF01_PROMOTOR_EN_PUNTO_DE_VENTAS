@@ -137,7 +137,7 @@
           
           .row.p-4(numero="2" titulo="Zona media")
             .col-md-12.mb-4.mb-md-0
-              p Está dispuesta al nivel de las manos  del consumidor o #[i shopper]; resulta muy cómoda para él. También se clasifica como una buena zona de exhibición. 
+              p Esta dispuesta al nivel de las manos  del consumidor o #[i shopper]; resulta muy cómoda para él. También se clasifica como una buena zona de exhibición. 
 
             .col-12
               figure
@@ -221,7 +221,7 @@ export default {
       {
         titulo: 'Cenefas',
         texto:
-          'Tiras de papel donde se imprime la información, generalmente usadas en los entrepaños de las góndolas',
+          'Tiras de papel donde se imprime la información, generalmente usadas en los entrepaños de las góndolas.',
         imagen: require('@/assets/curso/temas/tema4/img-014.png'),
       },
       {

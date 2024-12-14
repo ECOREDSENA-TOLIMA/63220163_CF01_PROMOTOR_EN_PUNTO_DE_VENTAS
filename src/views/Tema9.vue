@@ -65,7 +65,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10(data-aos="fade-down-right")
         .cajon.color-primario.p-4.mb-5(style="background-color:#FFECDA")
-          p.mb-0 Es importante tener en cuenta que el #[i shopper] es más influenciable antes de tomar un producto en sus manos, siendo necesario analizar su comportamiento para tratar de detectar su necesidad. Cada visita que realiza un #[i shopper] a un punto de venta está asociada a un hábito básico para cubrir una necesidad, para entenderlo en su acción debe responderse a la siguientes pregunta: ¿Cuáles son los motivos para visitar un punto de ventas? La respuesta indicará que el motivo está relacionado con algún tipo de hábito como consumidor.
+          p.mb-0 Es importante tener en cuenta que el #[i shopper] es más influenciable antes de tomar un producto en sus manos, siendo necesario analizar su comportamiento para tratar de detectar su necesidad. Cada visita que realiza un #[i shopper] a un punto de venta está asociada a un hábito básico para cubrir una necesidad, para entenderlo en su acción debe responderse a la siguiente pregunta: ¿Cuáles son los motivos para visitar un punto de ventas? La respuesta indicará que el motivo está relacionado con algún tipo de hábito como consumidor.
 
 
     p Los estudios determinan que el 75 % de las decisiones de compra se toman en el punto de venta, por tanto es la oportunidad perfecta para llegar al cliente apoyados en los métodos físicos y psicológicos. La actividad de #[i merchandising] considera los dos factores, y debe realizar acciones de adecuación del punto, la campaña promocional, la publicidad en el lugar de venta y la presentación del producto, entre otras.

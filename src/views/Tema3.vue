@@ -44,7 +44,7 @@
         PasosA.color-acento-contenido.mb-5.px-md-5.px-4(tipo="l")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-              p.mb-0 Cuando se trata de una compra fuerte como el reabastecimiento de productos básicos; en este tipo de visita, su recorrido básicamente cubre todo el punto de venta.  En este caso la zona caliente incluye los pasillos principales del almacén.
+              p.mb-0 Cuando se trata de una compra fuerte como el reabastecimiento de productos básicos; en este tipo de visita, su recorrido básicamente cubre todo el punto de venta.  En este caso, la zona caliente incluye los pasillos principales del almacén.
 
             .col-lg-6.col-10.order-lg-2.order-lg-1.mb-lg-0.mb-4(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema3/img-04.png', alt='Texto que describa la imagen')
@@ -54,11 +54,11 @@
               img(src='@/assets/curso/temas/tema3/img-05.png', alt='Texto que describa la imagen')
 
             .col-lg-6(data-aos="fade-left")
-              p.mb-0 Cuando se trata de una compra específica, es decir, para reponer un producto que se le ha agotado, su circulación dentro del local es por el perímetro del mismo porque sabe exactamente qué busca y pretende dirigirse al anaquel que lo contiene. En este caso la zona caliente sería el perímetro del almacén y la zona a donde se dirige. 
+              p.mb-0 Cuando se trata de una compra específica, es decir, para reponer un producto que se le ha agotado, su circulación dentro del local es por el perímetro del mismo porque sabe exactamente qué busca y pretende dirigirse al anaquel que lo contiene. En este caso, la zona caliente sería el perímetro del almacén y la zona a donde se dirige. 
 
           .row.justify-content-center.align-items-center(data-aos="fade-right")
             .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-              p.mb-0 Cuando visita el almacén con solo la intención de observar o verificar algo de su interés. En este caso la zona caliente seria el perímetro del almacén.
+              p.mb-0 Cuando visita el almacén con solo la intención de observar o verificar algo de su interés. En este caso, la zona caliente seria el perímetro del almacén.
 
             .col-lg-6.col-10.order-lg-2.order-lg-1.mb-lg-0.mb-4(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema3/img-06.png', alt='Texto que describa la imagen')
@@ -90,7 +90,7 @@
 
     .row.fondo2-t2.justify-content-center.align-items-center.py-4.px-lg-5.px-4.mb-4
       .col-lg-10(data-aos="fade-down-right")
-        p.mb-4 La organización en “U” Tienen tres caras de la exhibición. En los laterales y al frente del punto de venta; el cajero se ubica en la entrada o al fondo que es la misma salida. 
+        p.mb-4 La organización en “U” tienen tres caras de la exhibición. En los laterales y al frente del punto de venta; el cajero se ubica en la entrada o al fondo que es la misma salida. 
         .row.mb-1
           .col-md-6.col-lg.mb-5.mb-lg-0
             img(src='@/assets/curso/temas/tema3/img-08.png').mb-4

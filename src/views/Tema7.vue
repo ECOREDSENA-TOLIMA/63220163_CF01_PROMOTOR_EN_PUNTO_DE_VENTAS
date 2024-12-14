@@ -20,7 +20,7 @@
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
           //- estas clases tambien tienen un modificador --borde
           .tarjeta.color-acento-botones--borde.p-4(titulo="Culturales")
-            p Resultado de la interacción del consumidor con el medio en el que ha vivido. Las  costumbres, creencias y tradiciones del grupo socia al que pertenece, son determinantes de  gustos y hábitos. 
+            p Resultado de la interacción del consumidor con el medio en el que ha vivido. Las  costumbres, creencias y tradiciones del grupo social al que pertenece, son determinantes de  gustos y hábitos. 
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Valores")
             p La moral y la ética como  motivante  del comportamiento de compra del consumidor o #[i shopper];  incluso este tema puede determinar que no se comercialicen algunos productos por la no aceptación de los consumidores.

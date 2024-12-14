@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Promoción en punto de venta',
     descripcionCurso:
-      'El presente componente hace la presentación de las necesidades básicas que se requieren para la promoción de los productos en el punto de venta y para eso se inicia desde el portafolio de los productos entendiendo el ciclo de vida de estos. Luego se trabaja con los almacenes y sus zonas de ventas en las que se requiere <em>merchandising</em> y exposición estratégica de los productos para conseguir los objetivos comerciales establecidos.',
+      'El presente componente hace la presentación de las necesidades básicas que se requieren para la promoción de los productos, en el punto de venta y para eso se inicia desde el portafolio de los productos entendiendo el ciclo de vida de estos. Luego se trabaja con los almacenes y sus zonas de ventas en las que se requiere <em>merchandising</em> y exposición estratégica de los productos para conseguir los objetivos comerciales establecidos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -43,7 +43,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Las ventas y la promoción',
+        titulo: 'Las ventas y la promoción Mezcla de producto',
         desarrolloContenidos: true,
         subMenu: [
           {

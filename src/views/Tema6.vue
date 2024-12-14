@@ -54,7 +54,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10(data-aos="fade-down-right")
         .cajon.color-primario.p-4.mb-5(style="background-color:#FFECDA")
-          p.mb-0 La PLV va más allá de simplemente exhibir información, pues busca crear una experiencia única en el consumidor dentro del punto de venta, motivándolo a comprar mediante la presentación de elementos atractivos y diferenciadores frente a la competencia. Esta estrategia de #[i marketing] también utiliza material P.O.P #[i (Point of Purchase)], elaborado cuidadosamente por agencias de publicidad para transmitir mensajes y visuales diseñados para captar la atención del cliente y generar una conexión memorable con el producto.
+          p.mb-0 La PLV va más allá de simplemente exhibir información, pues busca crear una experiencia única en el consumidor dentro del punto de venta, motivándolo a comprar mediante la presentación de elementos atractivos y diferenciadores frente a la competencia. Esta estrategia de #[i marketing] también utiliza material P.O.P #[i (Point of Purchase)], elaborado cuidadosamente por agencias de publicidad, para transmitir mensajes y visuales diseñados para captar la atención del cliente y generar una conexión memorable con el producto.
           
 
 
