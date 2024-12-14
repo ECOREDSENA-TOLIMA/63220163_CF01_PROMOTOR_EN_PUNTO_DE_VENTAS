@@ -48,7 +48,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10(data-aos="fade-down-right") 
-        p Existen otro tipo de variables que explican el comportamiento del consumidor; éstas pertenecen al fuero interno en el individuo, se definen a través de la “Pirámide de necesidades de Maslow”, la cual habla de que el ser humano tiene prioridades en la satisfacción de sus necesidades en 5 niveles: Fisiológicas, Seguridad, Pertenencia o Afiliación, Estatus o reconocimiento y Autorrealización.
+        p Existen otro tipo de variables que explican el comportamiento del consumidor; estas pertenecen al fuero interno en el individuo, se definen a través de la “Pirámide de necesidades de Maslow”, la cual habla de que el ser humano tiene prioridades en la satisfacción de sus necesidades en 5 niveles: Fisiológicas, Seguridad, Pertenencia o Afiliación, Estatus o reconocimiento y Autorrealización.
         p La siguiente imagen permite reconocer los componentes de cada una de las categorías e identificar las prioridades de satisfacción de necesidades en el consumidor, así como su comportamiento de compra.
 
     .row.justify-content-center.mt-5.mb-3

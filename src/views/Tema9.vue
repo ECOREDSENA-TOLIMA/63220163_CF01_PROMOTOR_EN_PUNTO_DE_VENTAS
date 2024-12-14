@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-left") 
       .col-lg-10.order-lg-1.order-2
-        p Los métodos físicos para incentivar la venta hacen referencia a toda la actividad de #[i merchandising] desarrollada en el punto de venta; mientras que los métodos psicológicos están diseñados para influenciar al cliente de acuerdo a factores determinantes sobre el comportamiento del consumidor, éstos deben incidir en gran medida en la decisión de compra.
+        p Los métodos físicos para incentivar la venta hacen referencia a toda la actividad de #[i merchandising] desarrollada en el punto de venta; mientras que los métodos psicológicos están diseñados para influenciar al cliente de acuerdo a factores determinantes sobre el comportamiento del consumidor, estos deben incidir en gran medida en la decisión de compra.
         p El comprador de un producto no siempre es el consumidor del mismo, ni el consumidor decide siempre realizar la compra dado que existe lo que en mercadotecnia se conoce como “Proceso de Decisión de Compra”, en el que intervienen uno o varios participantes como: el influenciador, el decisor, el comprador, el consumidor y el evaluador.
 
       .col-lg-2.col-4.mb-lg-0.mb-4

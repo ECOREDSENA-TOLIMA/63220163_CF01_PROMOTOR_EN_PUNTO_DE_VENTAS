@@ -11,7 +11,7 @@
       .col-lg-4.col-8.mb-3(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema5/img-01.svg', alt='')
       .col-lg-8.col-12.mb-3(data-aos="fade-left")
-        p El #[i marketing] en el punto de venta se enfoca en estrategias que buscan optimizar la experiencia de compra, asegurando que los productos lleguen de la mejor manera al consumidor final. Su objetivo es lograr una relación efectiva entre el cliente y el producto, mediante actividades que capturan la atención, generan interés, y estimulan el deseo de compra en el lugar de venta.
+        p El #[i marketing] en el punto de venta se enfoca en estrategias que buscan optimizar la experiencia de compra, asegurando que los productos lleguen de la mejor manera al consumidor final. Su objetivo es lograr una relación efectiva entre el cliente y el producto, mediante actividades que captan la atención, generan interés, y estimulan el deseo de compra en el lugar de venta.
         p.mb-4 Según Fernández Valinas (2003), el #[i marketing], también conocido como mercadotecnia, se define como el conjunto de actividades humanas que facilita el intercambio entre productores y consumidores, permitiendo a los primeros obtener beneficios y a los segundos satisfacer sus necesidades. Kotler (2000), un referente en la disciplina, describe el #[i marketing] como un proceso social y administrativo mediante el cual los individuos obtienen lo que necesitan y desean mediante la oferta y el intercambio de valor. Con el tiempo, Kotler amplía esta definición, posicionando el #[i marketing] como una "Filosofía gerencial" que aporta un enfoque estratégico de gestión.
 
         .cajon.color-secundario.p-4.mb-4(style="background-color:#FFF8E0")

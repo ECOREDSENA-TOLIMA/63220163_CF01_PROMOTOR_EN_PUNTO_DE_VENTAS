@@ -82,7 +82,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10(data-aos="fade-down-right")
         .cajon.color-primario.p-4.mb-5(style="background-color:#FFECDA")
-          p.mb-0 En cualquier tipo de cliente que el promotor de ventas atienda, siempre se debe ser amable, estar sonriente y especialmente mostrar #[i “un auténtico deseo de servicio”]. Ser entusiasta, tener en cuenta que el promotor debe ser el primer enamorado del producto, es decir, debe estar totalmente convencido del producto que impulsa, de esta forma, puede transmitir entusiasmo a las personas que se contactan o visitan el punto de venta. Para el éxito de la promoción no solo se requiere una excelente labor con los elementos materiales, sino también la intervención consiente de todo el elemento humano. 
+          p.mb-0 En cualquier tipo de cliente que el promotor de ventas atienda, siempre se debe ser amable, estar sonriente y especialmente mostrar #[i “un auténtico deseo de servicio”]. Ser entusiasta, tener en cuenta que el promotor debe ser el primer enamorado del producto, es decir, debe estar totalmente convencido del producto que impulsa, de esta forma, puede transmitir entusiasmo a las personas que se contactan o visitan el punto de venta. Para el éxito de la promoción no solo se requiere una excelente labor con los elementos materiales, sino también la intervención consciente de todo el elemento humano. 
 
 
 
