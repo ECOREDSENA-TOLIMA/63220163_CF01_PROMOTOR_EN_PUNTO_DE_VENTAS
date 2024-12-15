@@ -43,7 +43,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Las ventas y la promoción Mezcla de producto',
+        titulo: 'Las ventas y la promoción',
         desarrolloContenidos: true,
         subMenu: [
           {

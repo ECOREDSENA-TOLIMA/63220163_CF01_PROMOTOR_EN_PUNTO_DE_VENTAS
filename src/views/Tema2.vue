@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2 
-      h1 Las ventas y la promoción Mezcla de producto
+      h1 Las ventas y la promoción
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.col-8.mb-3(data-aos="fade-right")
